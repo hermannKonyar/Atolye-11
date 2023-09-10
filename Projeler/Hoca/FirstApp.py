@@ -109,3 +109,4 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     mp3Player = Mp3Player()
     sys.exit(app.exec_())
+    print("Program sonlandırıldı...")
