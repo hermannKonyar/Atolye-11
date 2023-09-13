@@ -1,0 +1,5 @@
+Arkadaşlar buraya projelerinizi okul numarası ile isimlendiriniz...
+
+Örnek:
+
+267.py
