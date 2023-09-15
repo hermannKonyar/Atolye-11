@@ -110,3 +110,5 @@ if __name__ == "__main__":
     mp3Player = Mp3Player()
     sys.exit(app.exec_())
     print("Program sonlandırıldı...")
+    for i in range(100000):
+        print(i)
